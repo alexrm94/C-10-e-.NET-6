@@ -1,0 +1,15 @@
+C:\Code\Chapter09\Exercicio92\bin\Debug\net6.0\Exercicio92.exe
+C:\Code\Chapter09\Exercicio92\bin\Debug\net6.0\Exercicio92.deps.json
+C:\Code\Chapter09\Exercicio92\bin\Debug\net6.0\Exercicio92.runtimeconfig.json
+C:\Code\Chapter09\Exercicio92\bin\Debug\net6.0\Exercicio92.dll
+C:\Code\Chapter09\Exercicio92\bin\Debug\net6.0\Exercicio92.pdb
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\Exercicio92.csproj.AssemblyReference.cache
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\Exercicio92.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\Exercicio92.AssemblyInfoInputs.cache
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\Exercicio92.AssemblyInfo.cs
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\Exercicio92.csproj.CoreCompileInputs.cache
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\Exercicio92.dll
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\refint\Exercicio92.dll
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\Exercicio92.pdb
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\Exercicio92.genruntimeconfig.cache
+C:\Code\Chapter09\Exercicio92\obj\Debug\net6.0\ref\Exercicio92.dll

@@ -1,0 +1,15 @@
+C:\Code\Chapter02\Arguments\Arguments\bin\Debug\net6.0\Arguments.exe
+C:\Code\Chapter02\Arguments\Arguments\bin\Debug\net6.0\Arguments.deps.json
+C:\Code\Chapter02\Arguments\Arguments\bin\Debug\net6.0\Arguments.runtimeconfig.json
+C:\Code\Chapter02\Arguments\Arguments\bin\Debug\net6.0\Arguments.dll
+C:\Code\Chapter02\Arguments\Arguments\bin\Debug\net6.0\Arguments.pdb
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\Arguments.csproj.AssemblyReference.cache
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfoInputs.cache
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfo.cs
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\Arguments.dll
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\refint\Arguments.dll
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\Arguments.pdb
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\Arguments.genruntimeconfig.cache
+C:\Code\Chapter02\Arguments\Arguments\obj\Debug\net6.0\ref\Arguments.dll

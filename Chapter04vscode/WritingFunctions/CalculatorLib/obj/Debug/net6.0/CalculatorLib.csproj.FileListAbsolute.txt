@@ -1,0 +1,5 @@
+C:\Code\Chapter04vscode\WritingFunctions\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.AssemblyReference.cache
+C:\Code\Chapter04vscode\WritingFunctions\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter04vscode\WritingFunctions\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Code\Chapter04vscode\WritingFunctions\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+C:\Code\Chapter04vscode\WritingFunctions\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache

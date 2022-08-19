@@ -1,0 +1,15 @@
+C:\Code\Chapter04\debugging\bin\Debug\net6.0\debugging.exe
+C:\Code\Chapter04\debugging\bin\Debug\net6.0\debugging.deps.json
+C:\Code\Chapter04\debugging\bin\Debug\net6.0\debugging.runtimeconfig.json
+C:\Code\Chapter04\debugging\bin\Debug\net6.0\debugging.dll
+C:\Code\Chapter04\debugging\bin\Debug\net6.0\debugging.pdb
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\debugging.csproj.AssemblyReference.cache
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\debugging.AssemblyInfoInputs.cache
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\debugging.AssemblyInfo.cs
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\debugging.csproj.CoreCompileInputs.cache
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\debugging.dll
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\refint\debugging.dll
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\debugging.pdb
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\debugging.genruntimeconfig.cache
+C:\Code\Chapter04\debugging\obj\Debug\net6.0\ref\debugging.dll

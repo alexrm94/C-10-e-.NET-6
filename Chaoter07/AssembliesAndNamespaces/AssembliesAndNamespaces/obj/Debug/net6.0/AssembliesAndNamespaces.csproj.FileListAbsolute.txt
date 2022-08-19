@@ -1,0 +1,15 @@
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.AssemblyReference.cache
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.AssemblyInfo.cs
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.exe
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.deps.json
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.runtimeconfig.json
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.dll
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.pdb
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.dll
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\refint\AssembliesAndNamespaces.dll
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.pdb
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.genruntimeconfig.cache
+C:\Code\Chapter05\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\net6.0\ref\AssembliesAndNamespaces.dll

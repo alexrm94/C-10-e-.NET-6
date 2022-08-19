@@ -1,0 +1,15 @@
+C:\Code\Chapter04\Chapter04\bin\Debug\net6.0\Chapter04.exe
+C:\Code\Chapter04\Chapter04\bin\Debug\net6.0\Chapter04.deps.json
+C:\Code\Chapter04\Chapter04\bin\Debug\net6.0\Chapter04.runtimeconfig.json
+C:\Code\Chapter04\Chapter04\bin\Debug\net6.0\Chapter04.dll
+C:\Code\Chapter04\Chapter04\bin\Debug\net6.0\Chapter04.pdb
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\Chapter04.csproj.AssemblyReference.cache
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\Chapter04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\Chapter04.AssemblyInfoInputs.cache
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\Chapter04.AssemblyInfo.cs
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\Chapter04.csproj.CoreCompileInputs.cache
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\Chapter04.dll
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\refint\Chapter04.dll
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\Chapter04.pdb
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\Chapter04.genruntimeconfig.cache
+C:\Code\Chapter04\Chapter04\obj\Debug\net6.0\ref\Chapter04.dll

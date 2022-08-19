@@ -1,0 +1,15 @@
+C:\Code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.exe
+C:\Code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.deps.json
+C:\Code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.dll
+C:\Code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.pdb
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.dll
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\refint\WorkingWithFileSystems.dll
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.pdb
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.genruntimeconfig.cache
+C:\Code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\ref\WorkingWithFileSystems.dll

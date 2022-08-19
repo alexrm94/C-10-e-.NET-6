@@ -1,0 +1,15 @@
+C:\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\Chapter01-vscode.exe
+C:\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\Chapter01-vscode.deps.json
+C:\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\Chapter01-vscode.runtimeconfig.json
+C:\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\Chapter01-vscode.dll
+C:\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\Chapter01-vscode.pdb
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\Chapter01-vscode.csproj.AssemblyReference.cache
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\Chapter01-vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\Chapter01-vscode.AssemblyInfoInputs.cache
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\Chapter01-vscode.AssemblyInfo.cs
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\Chapter01-vscode.csproj.CoreCompileInputs.cache
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\Chapter01-vscode.dll
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\refint\Chapter01-vscode.dll
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\Chapter01-vscode.pdb
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\Chapter01-vscode.genruntimeconfig.cache
+C:\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\ref\Chapter01-vscode.dll

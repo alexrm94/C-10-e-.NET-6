@@ -1,0 +1,23 @@
+using System;
+using System.IO;
+
+namespace ReadATextFile
+{
+    class Program
+    {  
+        static readonly string textFile = @"C:\Code\teste.txt";
+
+        static void Main(string[] args)
+        {
+            if (File.Exists(textFile))
+            {
+                // Read entire text file content in one string    
+                string text = File.ReadAllText(textFile);
+                Console.WriteLine(text);
+            }
+
+
+            
+        }
+    }
+}

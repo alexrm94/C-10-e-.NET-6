@@ -1,0 +1,15 @@
+C:\Code\Chapter02\Arguments\tentativa1\bin\Debug\net6.0\tentativa1.exe
+C:\Code\Chapter02\Arguments\tentativa1\bin\Debug\net6.0\tentativa1.deps.json
+C:\Code\Chapter02\Arguments\tentativa1\bin\Debug\net6.0\tentativa1.runtimeconfig.json
+C:\Code\Chapter02\Arguments\tentativa1\bin\Debug\net6.0\tentativa1.dll
+C:\Code\Chapter02\Arguments\tentativa1\bin\Debug\net6.0\tentativa1.pdb
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\tentativa1.csproj.AssemblyReference.cache
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\tentativa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\tentativa1.AssemblyInfoInputs.cache
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\tentativa1.AssemblyInfo.cs
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\tentativa1.csproj.CoreCompileInputs.cache
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\tentativa1.dll
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\refint\tentativa1.dll
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\tentativa1.pdb
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\tentativa1.genruntimeconfig.cache
+C:\Code\Chapter02\Arguments\tentativa1\obj\Debug\net6.0\ref\tentativa1.dll

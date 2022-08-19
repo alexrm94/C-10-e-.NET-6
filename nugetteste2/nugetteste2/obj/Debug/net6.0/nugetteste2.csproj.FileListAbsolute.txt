@@ -1,0 +1,15 @@
+C:\Code\nugetteste2\nugetteste2\bin\Debug\net6.0\nugetteste2.exe
+C:\Code\nugetteste2\nugetteste2\bin\Debug\net6.0\nugetteste2.deps.json
+C:\Code\nugetteste2\nugetteste2\bin\Debug\net6.0\nugetteste2.runtimeconfig.json
+C:\Code\nugetteste2\nugetteste2\bin\Debug\net6.0\nugetteste2.dll
+C:\Code\nugetteste2\nugetteste2\bin\Debug\net6.0\nugetteste2.pdb
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\nugetteste2.csproj.AssemblyReference.cache
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\nugetteste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\nugetteste2.AssemblyInfoInputs.cache
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\nugetteste2.AssemblyInfo.cs
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\nugetteste2.csproj.CoreCompileInputs.cache
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\nugetteste2.dll
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\refint\nugetteste2.dll
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\nugetteste2.pdb
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\nugetteste2.genruntimeconfig.cache
+C:\Code\nugetteste2\nugetteste2\obj\Debug\net6.0\ref\nugetteste2.dll

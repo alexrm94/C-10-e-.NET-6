@@ -1,0 +1,15 @@
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.exe
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.deps.json
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.runtimeconfig.json
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.dll
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.pdb
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.csproj.AssemblyReference.cache
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.AssemblyInfo.cs
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.dll
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\refint\DotNetEverywhere.dll
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.pdb
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.genruntimeconfig.cache
+C:\Code\Chaoter07\AssembliesAndNamespaces\DotNetEverywhere\obj\Debug\net6.0\ref\DotNetEverywhere.dll

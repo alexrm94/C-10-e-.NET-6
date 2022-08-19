@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbHfo0EjLFy3tkVPAgwaBGKQixG/6PDy2BohGAgS6QG+haEJhYxRpRawCkng5NCE67NB2E8AJEe8n7lHym8LpA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55119\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

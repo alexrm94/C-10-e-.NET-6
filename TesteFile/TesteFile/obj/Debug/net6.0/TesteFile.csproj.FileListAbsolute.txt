@@ -1,0 +1,17 @@
+C:\Code\TesteFile\TesteFile\bin\Debug\net6.0\TesteFile.exe
+C:\Code\TesteFile\TesteFile\bin\Debug\net6.0\TesteFile.deps.json
+C:\Code\TesteFile\TesteFile\bin\Debug\net6.0\TesteFile.runtimeconfig.json
+C:\Code\TesteFile\TesteFile\bin\Debug\net6.0\TesteFile.dll
+C:\Code\TesteFile\TesteFile\bin\Debug\net6.0\TesteFile.pdb
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.csproj.AssemblyReference.cache
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.AssemblyInfoInputs.cache
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.AssemblyInfo.cs
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.csproj.CoreCompileInputs.cache
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.dll
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\refint\TesteFile.dll
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.pdb
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.genruntimeconfig.cache
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\ref\TesteFile.dll
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.Properties.Resources.resources
+C:\Code\TesteFile\TesteFile\obj\Debug\net6.0\TesteFile.csproj.GenerateResource.cache

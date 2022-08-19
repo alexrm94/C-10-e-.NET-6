@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter04", "Chapter04\Chapter04.csproj", "{01AED8D1-8567-4698-A33F-D29B5C058AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "debugging", "debugging\debugging.csproj", "{550AB206-4BB2-4826-B25D-206B5A501D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{91133ABB-9F29-446B-A44D-00C447D98154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibUnitTests", "CalculatorLibUnitTests\CalculatorLibUnitTests.csproj", "{5ED71DC4-5D75-4610-9D22-93D0D6A884A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandlingLib", "CallStackExceptionHandlingLib\CallStackExceptionHandlingLib.csproj", "{3F9288BD-70CC-4A18-878B-01CD3FECB4E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandling", "CallStackExceptionHandling\CallStackExceptionHandling.csproj", "{7E978E39-A5D4-41CF-900E-4034578E033B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AED8D1-8567-4698-A33F-D29B5C058AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AED8D1-8567-4698-A33F-D29B5C058AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AED8D1-8567-4698-A33F-D29B5C058AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AED8D1-8567-4698-A33F-D29B5C058AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550AB206-4BB2-4826-B25D-206B5A501D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550AB206-4BB2-4826-B25D-206B5A501D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550AB206-4BB2-4826-B25D-206B5A501D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550AB206-4BB2-4826-B25D-206B5A501D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91133ABB-9F29-446B-A44D-00C447D98154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91133ABB-9F29-446B-A44D-00C447D98154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91133ABB-9F29-446B-A44D-00C447D98154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91133ABB-9F29-446B-A44D-00C447D98154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED71DC4-5D75-4610-9D22-93D0D6A884A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED71DC4-5D75-4610-9D22-93D0D6A884A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED71DC4-5D75-4610-9D22-93D0D6A884A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED71DC4-5D75-4610-9D22-93D0D6A884A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9288BD-70CC-4A18-878B-01CD3FECB4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9288BD-70CC-4A18-878B-01CD3FECB4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9288BD-70CC-4A18-878B-01CD3FECB4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9288BD-70CC-4A18-878B-01CD3FECB4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E978E39-A5D4-41CF-900E-4034578E033B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E978E39-A5D4-41CF-900E-4034578E033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E978E39-A5D4-41CF-900E-4034578E033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E978E39-A5D4-41CF-900E-4034578E033B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {215B2CF6-0CA3-49D6-8997-2F4AA2F6D301}
+	EndGlobalSection
+EndGlobal

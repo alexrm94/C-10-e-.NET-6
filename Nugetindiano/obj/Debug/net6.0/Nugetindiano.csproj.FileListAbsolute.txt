@@ -1,0 +1,17 @@
+C:\Code\Nugetindiano\bin\Debug\net6.0\Nugetindiano.exe
+C:\Code\Nugetindiano\bin\Debug\net6.0\Nugetindiano.deps.json
+C:\Code\Nugetindiano\bin\Debug\net6.0\Nugetindiano.runtimeconfig.json
+C:\Code\Nugetindiano\bin\Debug\net6.0\Nugetindiano.dll
+C:\Code\Nugetindiano\bin\Debug\net6.0\Nugetindiano.pdb
+C:\Code\Nugetindiano\bin\Debug\net6.0\HelperLibrary.dll
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.csproj.AssemblyReference.cache
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.AssemblyInfoInputs.cache
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.AssemblyInfo.cs
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.csproj.CoreCompileInputs.cache
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.csproj.CopyComplete
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.dll
+C:\Code\Nugetindiano\obj\Debug\net6.0\refint\Nugetindiano.dll
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.pdb
+C:\Code\Nugetindiano\obj\Debug\net6.0\Nugetindiano.genruntimeconfig.cache
+C:\Code\Nugetindiano\obj\Debug\net6.0\ref\Nugetindiano.dll

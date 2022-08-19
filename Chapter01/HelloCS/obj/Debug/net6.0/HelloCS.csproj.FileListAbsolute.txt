@@ -1,0 +1,15 @@
+C:\Code\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.exe
+C:\Code\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.deps.json
+C:\Code\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.runtimeconfig.json
+C:\Code\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.dll
+C:\Code\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.pdb
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.csproj.AssemblyReference.cache
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfoInputs.cache
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfo.cs
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.dll
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\refint\HelloCS.dll
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.pdb
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.genruntimeconfig.cache
+C:\Code\Chapter01\HelloCS\obj\Debug\net6.0\ref\HelloCS.dll

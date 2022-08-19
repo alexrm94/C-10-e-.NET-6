@@ -1,0 +1,12 @@
+C:\Code\ClassLibraryProjects\Segunda\bin\Debug\net6.0\Segunda.deps.json
+C:\Code\ClassLibraryProjects\Segunda\bin\Debug\net6.0\Segunda.dll
+C:\Code\ClassLibraryProjects\Segunda\bin\Debug\net6.0\Segunda.pdb
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\Segunda.csproj.AssemblyReference.cache
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\Segunda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\Segunda.AssemblyInfoInputs.cache
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\Segunda.AssemblyInfo.cs
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\Segunda.csproj.CoreCompileInputs.cache
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\Segunda.dll
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\refint\Segunda.dll
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\Segunda.pdb
+C:\Code\ClassLibraryProjects\Segunda\obj\Debug\net6.0\ref\Segunda.dll

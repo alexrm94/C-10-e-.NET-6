@@ -1,0 +1,15 @@
+C:\Code\Chapter04vscode\WritingFunctions\bin\Debug\net6.0\WritingFunctions.exe
+C:\Code\Chapter04vscode\WritingFunctions\bin\Debug\net6.0\WritingFunctions.deps.json
+C:\Code\Chapter04vscode\WritingFunctions\bin\Debug\net6.0\WritingFunctions.runtimeconfig.json
+C:\Code\Chapter04vscode\WritingFunctions\bin\Debug\net6.0\WritingFunctions.dll
+C:\Code\Chapter04vscode\WritingFunctions\bin\Debug\net6.0\WritingFunctions.pdb
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\WritingFunctions.csproj.AssemblyReference.cache
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\WritingFunctions.AssemblyInfoInputs.cache
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\WritingFunctions.AssemblyInfo.cs
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\WritingFunctions.dll
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\refint\WritingFunctions.dll
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\WritingFunctions.pdb
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\WritingFunctions.genruntimeconfig.cache
+C:\Code\Chapter04vscode\WritingFunctions\obj\Debug\net6.0\ref\WritingFunctions.dll

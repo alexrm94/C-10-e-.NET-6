@@ -1,0 +1,15 @@
+C:\Code\Chapter06\NullHandling\bin\Debug\net6.0\NullHandling.exe
+C:\Code\Chapter06\NullHandling\bin\Debug\net6.0\NullHandling.deps.json
+C:\Code\Chapter06\NullHandling\bin\Debug\net6.0\NullHandling.runtimeconfig.json
+C:\Code\Chapter06\NullHandling\bin\Debug\net6.0\NullHandling.dll
+C:\Code\Chapter06\NullHandling\bin\Debug\net6.0\NullHandling.pdb
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\NullHandling.csproj.AssemblyReference.cache
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\NullHandling.AssemblyInfoInputs.cache
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\NullHandling.AssemblyInfo.cs
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\NullHandling.csproj.CoreCompileInputs.cache
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\NullHandling.dll
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\refint\NullHandling.dll
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\NullHandling.pdb
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\NullHandling.genruntimeconfig.cache
+C:\Code\Chapter06\NullHandling\obj\Debug\net6.0\ref\NullHandling.dll

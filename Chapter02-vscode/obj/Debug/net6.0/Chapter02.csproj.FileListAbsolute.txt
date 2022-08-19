@@ -1,0 +1,15 @@
+C:\Code\Chapter02\bin\Debug\net6.0\Chapter02.exe
+C:\Code\Chapter02\bin\Debug\net6.0\Chapter02.deps.json
+C:\Code\Chapter02\bin\Debug\net6.0\Chapter02.runtimeconfig.json
+C:\Code\Chapter02\bin\Debug\net6.0\Chapter02.dll
+C:\Code\Chapter02\bin\Debug\net6.0\Chapter02.pdb
+C:\Code\Chapter02\obj\Debug\net6.0\Chapter02.csproj.AssemblyReference.cache
+C:\Code\Chapter02\obj\Debug\net6.0\Chapter02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter02\obj\Debug\net6.0\Chapter02.AssemblyInfoInputs.cache
+C:\Code\Chapter02\obj\Debug\net6.0\Chapter02.AssemblyInfo.cs
+C:\Code\Chapter02\obj\Debug\net6.0\Chapter02.csproj.CoreCompileInputs.cache
+C:\Code\Chapter02\obj\Debug\net6.0\Chapter02.dll
+C:\Code\Chapter02\obj\Debug\net6.0\refint\Chapter02.dll
+C:\Code\Chapter02\obj\Debug\net6.0\Chapter02.pdb
+C:\Code\Chapter02\obj\Debug\net6.0\Chapter02.genruntimeconfig.cache
+C:\Code\Chapter02\obj\Debug\net6.0\ref\Chapter02.dll

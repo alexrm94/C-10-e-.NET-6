@@ -1,0 +1,5 @@
+C:\Code\Chapter06\sealedoverride\obj\Debug\net6.0\sealedoverride.csproj.AssemblyReference.cache
+C:\Code\Chapter06\sealedoverride\obj\Debug\net6.0\sealedoverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter06\sealedoverride\obj\Debug\net6.0\sealedoverride.AssemblyInfoInputs.cache
+C:\Code\Chapter06\sealedoverride\obj\Debug\net6.0\sealedoverride.AssemblyInfo.cs
+C:\Code\Chapter06\sealedoverride\obj\Debug\net6.0\sealedoverride.csproj.CoreCompileInputs.cache

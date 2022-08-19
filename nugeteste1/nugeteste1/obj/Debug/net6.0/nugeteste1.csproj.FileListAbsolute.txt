@@ -1,0 +1,15 @@
+C:\Code\nugeteste1\nugeteste1\bin\Debug\net6.0\nugeteste1.exe
+C:\Code\nugeteste1\nugeteste1\bin\Debug\net6.0\nugeteste1.deps.json
+C:\Code\nugeteste1\nugeteste1\bin\Debug\net6.0\nugeteste1.runtimeconfig.json
+C:\Code\nugeteste1\nugeteste1\bin\Debug\net6.0\nugeteste1.dll
+C:\Code\nugeteste1\nugeteste1\bin\Debug\net6.0\nugeteste1.pdb
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\nugeteste1.csproj.AssemblyReference.cache
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\nugeteste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\nugeteste1.AssemblyInfoInputs.cache
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\nugeteste1.AssemblyInfo.cs
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\nugeteste1.csproj.CoreCompileInputs.cache
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\nugeteste1.dll
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\refint\nugeteste1.dll
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\nugeteste1.pdb
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\nugeteste1.genruntimeconfig.cache
+C:\Code\nugeteste1\nugeteste1\obj\Debug\net6.0\ref\nugeteste1.dll

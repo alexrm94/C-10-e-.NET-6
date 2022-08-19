@@ -1,0 +1,180 @@
+#!csharp
+
+var nfi = 20000000;
+string nfi2 = nfi.ToString("#,0.00");
+Console.WriteLine(nfi2);
+string nfi3 = nfi.ToString("#,0");
+Console.WriteLine(nfi3);
+
+#!csharp
+
+Console.WriteLine($"int uses {sizeof(int)} bytes and can store numbers in the range {int.MinValue:N0} to {int.MaxValue:N0}."); // N0 significa casas depois da virgula
+
+#!csharp
+
+// three variables that store the number 2 million
+int decimalNotation = 20;
+int binaryNotation = 0b1_0100;
+int hexadecimalNotation = 0x14;
+
+// check the three variables have the same value
+// both statements output true
+Console.WriteLine($"{decimalNotation == binaryNotation}");
+Console.WriteLine($"{decimalNotation == hexadecimalNotation}");
+
+#!csharp
+
+uint x = 1;
+uint y = 2;
+uint a = x-y;
+Console.WriteLine(a);
+//a conta vai pro valor máximo positivo se o uint dar negativo
+
+#!csharp
+
+// let the heightInMetres variable become equal to the value 1.88
+double heightInMetres = 1.88;
+Console.WriteLine($"A variável {nameof(heightInMetres)} tem valor {heightInMetres}.");
+//O $ faz com que as variáveis sejam reconhecidas dentro da string.
+//A função nameof faz com que a variável apareça sem ser operada
+
+#!csharp
+
+string filePath = "C:\televisions\bravia.txt";
+Console.WriteLine(filePath);
+//`\t` means tab. `\b` means backspace.
+
+#!csharp
+
+string filePath = @"C:\televisions\sony\bravia.txt";
+Console.WriteLine(filePath);
+//O @ tem que ficar antes do "" pra fazer funcionar e o impresso ficar exatamente igual ao caminho
+
+#!csharp
+
+Console.WriteLine("Using doubles:"); 
+double a = 0.1;
+double b = 0.2;
+
+if (a + b == 0.3)
+{
+  Console.WriteLine($"{a} + {b} equals 0.3");
+}
+else
+{
+  Console.WriteLine($"{a} + {b} does NOT equal 0.3");
+}
+//o double dá problemas ao comparar valores pequenos, nesse caso é melhor usar o decimal
+
+#!csharp
+
+object height = 1.88; // storing a double in an object 
+object name = "Amir"; // storing a string in an object
+Console.WriteLine($"{name} is {height} metres tall.");
+
+//int length1 = name.Length; // gives compile error!
+int length2 = ((string)name).Length; // tell compiler it is a string
+Console.WriteLine($"{name} has {length2} characters.");
+
+#!csharp
+
+Console.WriteLine("Temperatura em {0:D} é {1}°C.", DateTime.Today, 23.4);
+Console.WriteLine("Temperatura em {0:d} é {1}°C.", DateTime.Today, 23.4);
+Console.WriteLine("Temperatura em {0:m} é {1}°C.", DateTime.Today, 23.4);
+Console.WriteLine("Temperatura em {0} é {1}°C.", DateTime.Today, 23.4);
+
+#!csharp
+
+object potdg = 15;
+object grvde = 20;
+Console.WriteLine(Convert.ToInt32(potdg)+Convert.ToInt32(grvde));
+
+#!csharp
+
+object potdg = "fasdfg";
+object grvde = "20";
+Console.WriteLine($"{potdg} asdas {grvde}");
+
+#!csharp
+
+// storing a string in a dynamic object
+// string has a Length property
+dynamic something = "Ahmed";
+// int does not have a Length property
+ something = 12;
+
+// an array of any type has a Length property
+ something = new[] { 3, 5, 7 };
+
+
+// this compiles but would throw an exception at run-time
+// if you later store a data type that does not have a
+// property named Length
+Console.WriteLine($"Length is {something.Length}");
+
+#!csharp
+
+dynamic asdf1 = 3;
+dynamic asdf2 = 2;
+Console.WriteLine(asdf1+asdf2);
+Console.WriteLine(asdf1/asdf2);
+//O dynamic pode ser int ou double, nesse caso está como int e o resultado da divisão está errado. Pra mudar pra double é só colocar 3.0 no asdf1
+
+#!csharp
+
+var population = 66_000_000; // 66 million in UK
+var weight = 1.88; // in kilograms
+var price = 4.99M; // M for Decimal
+var price2 = 4.99D; // D for Double
+var price3 = 4.99F; // F for Float
+var price4 = 5L; // L for Long
+var fruit = "Apples"; // strings use double-quotes
+var letter = 'Z'; // chars use single-quotes
+var happy = true; // Booleans have value of true or false
+
+#!csharp
+
+using System.Xml;
+var xml1 = new XmlDocument();
+XmlDocument xml2 = new XmlDocument();
+
+#!csharp
+
+int number = 13;
+Console.WriteLine($"number has been set to: {number}");
+number = default;
+Console.WriteLine($"number has been reset to its default: {number}");
+//uso do default, ele reseta o valor para o default
+
+#!csharp
+
+string[] names; // can reference any size array of strings
+// allocating memory for four strings in an array
+
+names = new string[4];
+// storing items at index positions
+names[0] = "Kate";
+names[1] = "Jack";
+names[2] = "Rebecca";
+names[3] = "Tom";
+// looping through the names
+for (int i = 0; i < names.Length; i++)
+{
+// output the item at index position i
+Console.WriteLine(names[i]);
+}
+
+#!csharp
+
+string[] names2 = new[] { "Kate", "Jack", "Rebecca", "Tom" };
+
+#!csharp
+
+string applesText = "Apples";
+int applesCount = 1234;
+string bananasText = "Bananas";
+int bananasCount = 5672;
+Console.WriteLine(format: "{0,-10} {1,6:N0}",arg0: "Name",arg1: "Count");
+Console.WriteLine("{0,-10} {1,6:N0}",applesText,applesCount);
+Console.WriteLine(format: "{0,-10} {1,6:N0}",arg0: bananasText,arg1: bananasCount);
+//Console.WriteLine("{0,-10} {1,6:N0}","dfsdjhjkfsdfsd","jhggjg");

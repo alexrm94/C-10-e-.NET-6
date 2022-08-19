@@ -1,0 +1,15 @@
+C:\Code\testeentrevs\bin\Debug\net6.0\testeentrevs.exe
+C:\Code\testeentrevs\bin\Debug\net6.0\testeentrevs.deps.json
+C:\Code\testeentrevs\bin\Debug\net6.0\testeentrevs.runtimeconfig.json
+C:\Code\testeentrevs\bin\Debug\net6.0\testeentrevs.dll
+C:\Code\testeentrevs\bin\Debug\net6.0\testeentrevs.pdb
+C:\Code\testeentrevs\obj\Debug\net6.0\testeentrevs.csproj.AssemblyReference.cache
+C:\Code\testeentrevs\obj\Debug\net6.0\testeentrevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\testeentrevs\obj\Debug\net6.0\testeentrevs.AssemblyInfoInputs.cache
+C:\Code\testeentrevs\obj\Debug\net6.0\testeentrevs.AssemblyInfo.cs
+C:\Code\testeentrevs\obj\Debug\net6.0\testeentrevs.csproj.CoreCompileInputs.cache
+C:\Code\testeentrevs\obj\Debug\net6.0\testeentrevs.dll
+C:\Code\testeentrevs\obj\Debug\net6.0\refint\testeentrevs.dll
+C:\Code\testeentrevs\obj\Debug\net6.0\testeentrevs.pdb
+C:\Code\testeentrevs\obj\Debug\net6.0\testeentrevs.genruntimeconfig.cache
+C:\Code\testeentrevs\obj\Debug\net6.0\ref\testeentrevs.dll
