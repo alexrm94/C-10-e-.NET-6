@@ -1,0 +1,15 @@
+C:\Code\Chapter12\WorkingWithTasks\bin\Release\net6.0\WorkingWithTasks.exe
+C:\Code\Chapter12\WorkingWithTasks\bin\Release\net6.0\WorkingWithTasks.deps.json
+C:\Code\Chapter12\WorkingWithTasks\bin\Release\net6.0\WorkingWithTasks.runtimeconfig.json
+C:\Code\Chapter12\WorkingWithTasks\bin\Release\net6.0\WorkingWithTasks.dll
+C:\Code\Chapter12\WorkingWithTasks\bin\Release\net6.0\WorkingWithTasks.pdb
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\WorkingWithTasks.csproj.AssemblyReference.cache
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\WorkingWithTasks.AssemblyInfoInputs.cache
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\WorkingWithTasks.AssemblyInfo.cs
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\WorkingWithTasks.dll
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\refint\WorkingWithTasks.dll
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\WorkingWithTasks.pdb
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\WorkingWithTasks.genruntimeconfig.cache
+C:\Code\Chapter12\WorkingWithTasks\obj\Release\net6.0\ref\WorkingWithTasks.dll

@@ -1,0 +1,15 @@
+C:\Code\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.exe
+C:\Code\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.deps.json
+C:\Code\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.runtimeconfig.json
+C:\Code\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.dll
+C:\Code\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.pdb
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.csproj.AssemblyReference.cache
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.AssemblyInfoInputs.cache
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.AssemblyInfo.cs
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.csproj.CoreCompileInputs.cache
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.dll
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\refint\LinqInParallel.dll
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.pdb
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.genruntimeconfig.cache
+C:\Code\Chapter11\LinqInParallel\obj\Debug\net6.0\ref\LinqInParallel.dll

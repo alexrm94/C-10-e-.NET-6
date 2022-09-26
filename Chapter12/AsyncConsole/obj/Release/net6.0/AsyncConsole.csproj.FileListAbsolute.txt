@@ -1,0 +1,15 @@
+C:\Code\Chapter12\AsyncConsole\bin\Release\net6.0\AsyncConsole.exe
+C:\Code\Chapter12\AsyncConsole\bin\Release\net6.0\AsyncConsole.deps.json
+C:\Code\Chapter12\AsyncConsole\bin\Release\net6.0\AsyncConsole.runtimeconfig.json
+C:\Code\Chapter12\AsyncConsole\bin\Release\net6.0\AsyncConsole.dll
+C:\Code\Chapter12\AsyncConsole\bin\Release\net6.0\AsyncConsole.pdb
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\AsyncConsole.AssemblyInfo.cs
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\AsyncConsole.dll
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\refint\AsyncConsole.dll
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\AsyncConsole.pdb
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\AsyncConsole.genruntimeconfig.cache
+C:\Code\Chapter12\AsyncConsole\obj\Release\net6.0\ref\AsyncConsole.dll

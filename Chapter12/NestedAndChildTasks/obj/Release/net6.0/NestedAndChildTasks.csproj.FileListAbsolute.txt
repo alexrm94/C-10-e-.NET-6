@@ -1,0 +1,15 @@
+C:\Code\Chapter12\NestedAndChildTasks\bin\Release\net6.0\NestedAndChildTasks.exe
+C:\Code\Chapter12\NestedAndChildTasks\bin\Release\net6.0\NestedAndChildTasks.deps.json
+C:\Code\Chapter12\NestedAndChildTasks\bin\Release\net6.0\NestedAndChildTasks.runtimeconfig.json
+C:\Code\Chapter12\NestedAndChildTasks\bin\Release\net6.0\NestedAndChildTasks.dll
+C:\Code\Chapter12\NestedAndChildTasks\bin\Release\net6.0\NestedAndChildTasks.pdb
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\NestedAndChildTasks.csproj.AssemblyReference.cache
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\NestedAndChildTasks.dll
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\refint\NestedAndChildTasks.dll
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\NestedAndChildTasks.pdb
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\NestedAndChildTasks.genruntimeconfig.cache
+C:\Code\Chapter12\NestedAndChildTasks\obj\Release\net6.0\ref\NestedAndChildTasks.dll

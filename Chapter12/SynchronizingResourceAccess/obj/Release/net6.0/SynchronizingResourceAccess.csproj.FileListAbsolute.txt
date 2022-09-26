@@ -1,0 +1,15 @@
+C:\Code\Chapter12\SynchronizingResourceAccess\bin\Release\net6.0\SynchronizingResourceAccess.exe
+C:\Code\Chapter12\SynchronizingResourceAccess\bin\Release\net6.0\SynchronizingResourceAccess.deps.json
+C:\Code\Chapter12\SynchronizingResourceAccess\bin\Release\net6.0\SynchronizingResourceAccess.runtimeconfig.json
+C:\Code\Chapter12\SynchronizingResourceAccess\bin\Release\net6.0\SynchronizingResourceAccess.dll
+C:\Code\Chapter12\SynchronizingResourceAccess\bin\Release\net6.0\SynchronizingResourceAccess.pdb
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\SynchronizingResourceAccess.csproj.AssemblyReference.cache
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\SynchronizingResourceAccess.AssemblyInfo.cs
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\SynchronizingResourceAccess.dll
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\refint\SynchronizingResourceAccess.dll
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\SynchronizingResourceAccess.pdb
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\SynchronizingResourceAccess.genruntimeconfig.cache
+C:\Code\Chapter12\SynchronizingResourceAccess\obj\Release\net6.0\ref\SynchronizingResourceAccess.dll

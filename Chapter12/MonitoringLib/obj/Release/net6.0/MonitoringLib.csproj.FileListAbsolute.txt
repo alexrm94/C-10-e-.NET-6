@@ -1,0 +1,12 @@
+C:\Code\Chapter12\MonitoringLib\bin\Release\net6.0\MonitoringLib.deps.json
+C:\Code\Chapter12\MonitoringLib\bin\Release\net6.0\MonitoringLib.dll
+C:\Code\Chapter12\MonitoringLib\bin\Release\net6.0\MonitoringLib.pdb
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\MonitoringLib.csproj.AssemblyReference.cache
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\MonitoringLib.AssemblyInfo.cs
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\MonitoringLib.dll
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\refint\MonitoringLib.dll
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\MonitoringLib.pdb
+C:\Code\Chapter12\MonitoringLib\obj\Release\net6.0\ref\MonitoringLib.dll
