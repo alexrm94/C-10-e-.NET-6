@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cV+FYNWRiUvIaBx/DCk/0YcJ46Uzciqq2p5uHfRXhHVWO6RSKBIM31LJ0EvRco7n1DZbQpmwR7ILdPoAk1tyTA==",
+  "dgSpecHash": "O+5KcCdOpUfFYdTlXAZhNR8Ad4ziZfTYImLiFOOI5XcABNev2MxcaTFmfLQfxtvbam3JaRzbOeMsZvCcr6Y4jQ==",
   "success": true,
   "projectFilePath": "C:\\Code\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
   "expectedPackageFiles": [

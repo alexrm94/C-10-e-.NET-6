@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Northwind.Common.DataContext.SqlServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52678;http://localhost:52682"
+    }
+  }
+}

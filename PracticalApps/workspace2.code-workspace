@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "RestClientTests"
+		},
+		{
+			"path": "Northwind.Common.DataContext.Sqlite"
+		},
+		{
+			"path": "Northwind.Common.DataContext.SqlServer"
+		},
+		{
+			"path": "Northwind.Common.EntityModels.Sqlite"
+		},
+		{
+			"path": "Northwind.Common.EntityModels.SqlServer"
+		},
+		{
+			"path": "Northwind.Mvc"
+		},
+		{
+			"path": "Northwind.Razor.Employees"
+		},
+		{
+			"path": "Northwind.Web"
+		},
+		{
+			"path": "Northwind.WebApi"
+		}
+	],
+	"settings": {}
+}
